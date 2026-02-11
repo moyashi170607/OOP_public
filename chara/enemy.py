@@ -1,4 +1,5 @@
 import pygame
+from config import SCREEN_SIZE
 
 class Enemy(pygame.sprite.Sprite):
     # 敵の初期設定
